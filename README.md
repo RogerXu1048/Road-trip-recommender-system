@@ -1,4 +1,4 @@
-# cs4260-ass4
+# Project description
 We used Python 3.11 for this assignment.
 
 See details for the decision tree in DT.py. The data used for training the decision tree is raw_data.txt
