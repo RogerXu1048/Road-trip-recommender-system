@@ -8,11 +8,11 @@ Implement a utility-driven search algorithm that can find round trips in the roa
 
 The search algorithm is Anytime Iterative Deepening Heuristic DFS. 
 
-Iterative Deepening: bounded by travel time, which is the time needed to traverse all the edges. 
+  Iterative Deepening: bounded by travel time, which is the time needed to traverse all the edges. 
 
-Heuristic: the utility computed by the decision tree is used as heuristic, which is used to determine the order of paths put into the frontier (Heuristic DFS). 
+  Heuristic: the utility computed by the decision tree is used as heuristic, which is used to determine the order of paths put into the frontier (Heuristic DFS). 
 
-DFS: tends to find longer valid paths. Also, note that repeated vertices are ignored.
+  DFS: tends to find longer valid paths. Also, note that repeated vertices are ignored.
 
 The user can specify the starting location of the round trip and also give data input of the number of different kinds of themes(characteristics like history and culture, natural landscape, or city view) encountered in a road with its corresponding utility to the decision tree to train.
 
