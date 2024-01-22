@@ -1,4 +1,4 @@
-# cs4260-ass4
+# Description of the project
 We used Python 3.11 for this assignment.
 
 See details for the decision tree in DT.py. The data used for training the decision tree is raw_data.txt. 'Utility' is utility score of a road and ti means the number of places encountered on this road that belong to theme i.
