@@ -1,0 +1,58 @@
+solution 0 DenverCO 300.000000 60.000000
+1. DenverCO ColoradoSpringsCO Denver_tofrom_ColoradoSprings_on_I25S 1.155000 
+2. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+3. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+4. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+5. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+6. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+7. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+8. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+9. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+10. ColoradoSpringsCO DenverCO Denver_tofrom_ColoradoSprings_on_I25S 1.155000 
+DenverCO 1.000000 1346.600000 22.443333
+solution 1 DenverCO 300.000000 60.000000
+1. DenverCO ColoradoSpringsCO Denver_tofrom_ColoradoSprings_on_I25S 1.155000 
+2. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+3. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+4. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+5. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+6. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+7. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+8. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+9. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+10. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+11. BurlingtonCO DenverCO DenverCO_tofrom_BurlingtonCO 2.800000 
+DenverCO 2.000000 1596.300000 26.605000
+solution 2 DenverCO 300.000000 60.000000
+1. DenverCO ColoradoSpringsCO Denver_tofrom_ColoradoSprings_on_I25S 1.155000 
+2. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+3. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+4. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+5. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+6. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+7. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+8. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+9. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+10. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+11. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+12. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+13. BurlingtonCO DenverCO DenverCO_tofrom_BurlingtonCO 2.800000 
+DenverCO 2.000000 1898.300000 31.638333
+solution 3 DenverCO 300.000000 60.000000
+1. DenverCO ColoradoSpringsCO Denver_tofrom_ColoradoSprings_on_I25S 1.155000 
+2. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+3. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+4. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+5. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+6. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+7. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+8. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+9. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+10. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+11. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+12. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+13. BurlingtonCO ColoradoSpringsCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+14. ColoradoSpringsCO BurlingtonCO ColoradoSpringsCO_tofrom_BurlingtonCO 2.516667 
+15. BurlingtonCO DenverCO DenverCO_tofrom_BurlingtonCO 2.800000 
+DenverCO 2.000000 2200.300000 36.671667
+time: 0.002507
